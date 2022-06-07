@@ -3,6 +3,7 @@
 	"author": "Angel",
 	"description": "this is only a practice to learn some backend",
 	"keywords": ["learning", "practice"],
+	"version": "1.5.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
