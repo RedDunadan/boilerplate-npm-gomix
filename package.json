@@ -1,6 +1,7 @@
 {
-	"author": "Angel",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Angel",
+	"description": "this is only a practice to learn some backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
